@@ -12,8 +12,8 @@ export function ResumeModal({ trigger }: ResumeModalProps) {
   return (
     <Dialog>
       <DialogTrigger asChild>{trigger}</DialogTrigger>
-  {/* Make dialog wider and taller for easier reading; use flex to let the preview fill available space */}
-  <DialogContent className="max-w-6xl w-full sm:max-w-5xl lg:max-w-7xl h-[90vh] p-4 flex flex-col">
+      {/* Make dialog wider and taller for easier reading; use flex to let the preview fill available space */}
+      <DialogContent className="max-w-6xl w-full sm:max-w-5xl lg:max-w-7xl h-[90vh] p-4 flex flex-col">
         <DialogHeader>
           <DialogTitle>Resume</DialogTitle>
           <DialogDescription>Preview my resume below — you can download it with the button.</DialogDescription>
