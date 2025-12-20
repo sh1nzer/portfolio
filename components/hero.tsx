@@ -18,7 +18,7 @@ export function Hero() {
               {/* Image container */}
               <div className="relative w-full h-full rounded-2xl overflow-hidden border-2 border-primary/50 bg-secondary">
                 <Image
-                  src="/professional-cybersecurity-engineer-portrait.jpg"
+                  src="/professional-cybersecurity-engineer-portrait.jpeg"
                   alt="Shaurya Singh"
                   fill
                   className="object-cover"
