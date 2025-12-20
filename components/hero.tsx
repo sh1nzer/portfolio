@@ -38,8 +38,8 @@ export function Hero() {
 
             {/* Subtitle with gradient */}
             <p className="text-lg md:text-xl text-muted-foreground text-balance">
-              <span className="text-primary font-semibold">Cybersecurity Engineer</span> |{" "}
-              <span className="text-accent font-semibold">Developer</span>
+              <span className="text-primary font-semibold">Masters in Cybersecurity</span> |{" "}
+              <span className="text-accent font-semibold">BSc. Comp science</span>
             </p>
 
             {/* Tagline */}
